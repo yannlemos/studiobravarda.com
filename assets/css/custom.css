@@ -1,0 +1,9 @@
+.main-menu {
+    margin-top: 10px;  /* Increase top margin */
+    margin-bottom: 10px;  /* Increase bottom margin */
+}
+
+.logo {
+    max-height: 7rem;  /* Increase max height */
+    max-width: 7rem;   /* Increase max width */
+}

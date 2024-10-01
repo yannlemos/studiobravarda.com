@@ -1,2 +1,44 @@
-[[footer]]
+[[main]]
 none = "none"
+
+[[main]]
+name = "Sky Caravan"
+# parent = "Portfolio"
+pageRef = "sky-caravan"
+weight = 1
+
+[[main]]
+name = "Extremely Powerful Capybaras"
+# parent = "Portfolio"
+pageRef = "extremely-powerful-capybaras"
+weight = 2
+
+[[main]]
+name = "Presskit"
+pageRef = "presskit"
+identifier = "N0Wbh1Qf3h"
+weight = 3
+
+[[footer]]
+  identifier = "twitter"
+  pre = "x-twitter"
+  url = "https://twitter.com/studiobravarda"
+  weight = 400
+
+[[footer]]
+  identifier = "discord"
+  pre = "discord"
+  url = "https://twitter.com/studiobravarda"
+  weight = 500
+
+[[footer]]
+  identifier = "instagram"
+  pre = "instagram"
+  url = "https://twitter.com/studiobravarda"
+  weight = 600
+
+[[footer]]
+  identifier = "linkedin"
+  pre = "linkedin"
+  url = "https://twitter.com/studiobravarda"
+  weight = 700

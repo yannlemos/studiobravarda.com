@@ -2,19 +2,12 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = ""
+title = "Studio Bravarda"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-author = { name = "" }
+author = { name = "Studio Bravarda" }
 logo = "Logo+Bravarda.png"
-
-[author]
-name = "Yann Lemos"
-bio = "Game Developer"
-image = "img/avatar.png"
-links = [ { email = "mailto:yannlemos@proton.me" }, { github = "https://github.com/yannlemos" }, { linkedin = "https://www.linkedin.com/in/yannlemos/" }, { discord = "https://discord.com/channels/@yannlemos" }, { x-twitter = "https://x.com/yannlemos" } ]
-headline = "Opa, tudo bom?<br>I'm a game developer based in Rio de Janeiro, Brazil."

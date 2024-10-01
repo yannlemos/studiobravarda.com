@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title></title>
-    <link>http://localhost:51499/</link>
-    <description>Recent content on </description>
+    <title>Studio Bravarda</title>
+    <link>http://localhost:53780/</link>
+    <description>Recent content on Studio Bravarda</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    
-    <atom:link href="http://localhost:51499/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 Studio Bravarda</copyright>
+    <atom:link href="http://localhost:53780/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
