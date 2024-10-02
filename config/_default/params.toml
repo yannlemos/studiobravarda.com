@@ -4,7 +4,7 @@ autoSwitchAppearance = "false"
 enableSearch = false
 enableCodeCopy = false
 replyByEmail = false
-disableImageOptimization = false
+disableImageOptimization = true
 disableTextInHeader = true
 giteaDefaultServer = "https://git.fsfe.org"
 forgejoDefaultServer = "https://v8.next.forgejo.org"
@@ -12,11 +12,12 @@ defaultFeaturedImage = "Header+Banner.png"
 defaultBackgroundImage = "."
 
 [header]
-layout = "fixed-fill-blur"
+layout = "basic"
 
 [author]
 name = "Studio Bravarda"
 headline = "Award-winning studio crafting digital worlds for every player"
+links = [ { email = "mailto:contact@studiobravarda.com" }, { linkedin = "https://www.linkedin.com/company/studio-bravarda/" }, { discord = "https://discord.gg/studiobravarda" }, { x-twitter = "https://twitter.com/studiobravarda" } ]
 
 [footer]
 showMenu = true
@@ -26,7 +27,7 @@ showAppearanceSwitcher = false
 showScrollToTop = true
 
 [homepage]
-layout = "custom"
+layout = "background"
 showRecent = false
 showRecentItems = 5
 showMoreLink = false
@@ -56,10 +57,11 @@ showPagination = false
 invertPagination = false
 showReadingTime = false
 showTableOfContents = false
-showTaxonomies = false
+showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
 showZenMode = false
+heroStyle = "background"
 
 [list]
 showHero = false

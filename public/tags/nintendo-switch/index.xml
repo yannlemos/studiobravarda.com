@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nintendo Switch on Studio Bravarda</title>
+    <link>http://localhost:1313/tags/nintendo-switch/</link>
+    <description>Recent content in Nintendo Switch on Studio Bravarda</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© 2024 Studio Bravarda</copyright>
+    <atom:link href="http://localhost:1313/tags/nintendo-switch/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sky Caravan</title>
+      <link>http://localhost:1313/sky-caravan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sky-caravan/</guid>
+      <description>Text-Based RPG</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sky-caravan/cover.png" />
+    </item>
+    
+    <item>
+      <title>Extremely Powerful Capybaras</title>
+      <link>http://localhost:1313/extremely-powerful-capybaras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/extremely-powerful-capybaras/</guid>
+      <description>Online Multiplayer Roguelike</description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/extremely-powerful-capybaras/cover.png" />
+    </item>
+    
+  </channel>
+</rss>

@@ -1,6 +1,9 @@
 ---
 title: "Extremely Powerful Capybaras"
+type: "Game"
+tags: ["PC", "Nintendo Switch", "PS5", "Xbox Series S/X"]
 summary: "Online Multiplayer Roguelike"
+weight: 2
 ---
 
 Become a capybara bullet hell!

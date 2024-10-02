@@ -1,6 +1,9 @@
 ---
 title: "Sky Caravan"
+type: "Game"
+tags: ["PC", "Nintendo Switch"]
 summary: "Text-Based RPG"
+weight: 1
 ---
 Welcome to the Skyways, caravaneer.
 
