@@ -24,7 +24,7 @@ Become the bullet hell as a Capybara in this roguelite adventure! Brave the chao
 - Make sacrifices to resurrect a fallen friend
 - Chill in hot water like a true capybara before each run starts
 
-{{< button href="https://store.steampowered.com/app/1792270/Sky_Caravan" target="_self" >}}
+{{< button href="https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/" target="_self" >}}
 BUY NOW!
 {{< /button >}}
 
