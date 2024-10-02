@@ -12,9 +12,3 @@ name = "Extremely Powerful Capybaras"
 # parent = "Portfolio"
 pageRef = "extremely-powerful-capybaras"
 weight = 2
-
-[[main]]
-name = "Presskit"
-pageRef = "presskit"
-identifier = "N0Wbh1Qf3h"
-weight = 3

@@ -36,4 +36,4 @@ Complete missions, manage your ship’s resources and make tough decisions to ke
 BUY NOW!
 {{< /button >}}
 
-{{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}
+<!-- {{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}} -->
