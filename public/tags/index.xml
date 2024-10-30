@@ -1,49 +1,49 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Studio Bravarda</title>
-    <link>http://localhost:1313/tags/</link>
-    <description>Recent content in Tags on Studio Bravarda</description>
+    <title>Tags on STUDIO BRAVARDA</title>
+    <link>http://localhost:63029/tags/</link>
+    <description>Recent content in Tags on STUDIO BRAVARDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Studio Bravarda</copyright>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>© 2024 STUDIO BRAVARDA</copyright>
+    <atom:link href="http://localhost:63029/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Nintendo Switch</title>
-      <link>http://localhost:1313/tags/nintendo-switch/</link>
+      <link>http://localhost:63029/tags/nintendo-switch/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/nintendo-switch/</guid>
+      <guid>http://localhost:63029/tags/nintendo-switch/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PC</title>
-      <link>http://localhost:1313/tags/pc/</link>
+      <link>http://localhost:63029/tags/pc/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/pc/</guid>
+      <guid>http://localhost:63029/tags/pc/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>PS5</title>
-      <link>http://localhost:1313/tags/ps5/</link>
+      <link>http://localhost:63029/tags/ps5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/ps5/</guid>
+      <guid>http://localhost:63029/tags/ps5/</guid>
       <description></description>
       
     </item>
     
     <item>
       <title>Xbox Series S/X</title>
-      <link>http://localhost:1313/tags/xbox-series-s/x/</link>
+      <link>http://localhost:63029/tags/xbox-series-s/x/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/tags/xbox-series-s/x/</guid>
+      <guid>http://localhost:63029/tags/xbox-series-s/x/</guid>
       <description></description>
       
     </item>

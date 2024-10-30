@@ -1,4 +1,4 @@
-colorScheme = "fire"
+colorScheme = "bravarda"
 defaultAppearance = "dark"
 autoSwitchAppearance = "false"
 enableSearch = false
@@ -61,7 +61,7 @@ showTaxonomies = true
 showAuthorsBadges = false
 showWordCount = false
 showZenMode = false
-heroStyle = "background"
+heroStyle = "thumbAndBackground"
 
 [list]
 showHero = false

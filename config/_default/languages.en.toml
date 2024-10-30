@@ -2,12 +2,12 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Studio Bravarda"
+title = "STUDIO BRAVARDA"
 
 [params]
 displayName = "EN"
 isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
-author = { name = "Studio Bravarda" }
-logo = "Logo+Bravarda.png"
+author = { name = "STUDIO BRAVARDA" }
+logo = "Logo Bravarda.png"

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Studio Bravarda</title>
+    <title>Studio Bravarda on STUDIO BRAVARDA</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content on Studio Bravarda</description>
+    <description>Recent content in Studio Bravarda on STUDIO BRAVARDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <copyright>© 2024 Studio Bravarda</copyright>
+    <copyright>© 2024 STUDIO BRAVARDA</copyright>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sky Caravan</title>
@@ -26,6 +26,16 @@
       <guid>http://localhost:1313/extremely-powerful-capybaras/</guid>
       <description>Online Multiplayer Roguelike</description>
       <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/extremely-powerful-capybaras/cover.png" />
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
     </item>
     
     <item>

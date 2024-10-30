@@ -24,16 +24,25 @@ Complete missions, manage your ship’s resources and make tough decisions to ke
 {{< video src="video" autoplay="false" >}}
 
 ### FEATURES
-- Become a Sky Caravaneer, an adventurer in the clouds
-- Discover peculiar locations of a world in the skies, such as the Floating Ocean, Venom Refinery or Spore Heights
-- Take up missions and make tough choices with narrative and mechanical consequences through a unique reaction disks system
-- Manage your ship's resources and chill with your crew in bars managed by greedy capybaras
-- Be wary of your shipmates' affinities changing as hard decisions are made. They may become your best friends - or your fiercest rivals!
-- Play alongside your community with Twitch Integration, allowing your followers to vote on decisions through the chat! Click here for more info.
-- Ultrawide monitor support
+- Become a Sky Caravaneer, <b>an adventurer in the clouds</b>
+- Discover <b>peculiar locations of a world in the skies</b>, such as the Floating Ocean, Venom Refinery or Spore Heights
+- <b>Take up missions</b> and <b>make tough choices</b> with narrative and mechanical consequences through a unique reaction disks system
+- <b>Manage your ship's resources</b> and <b>chill with your crew</b> in bars managed by greedy capybaras
+- <b>Be wary of your shipmates' affinities changing</b> as hard decisions are made. They may become your best friends - or your fiercest rivals!
+- Play alongside your community with <b>Twitch Integration</b>, allowing your followers to <b>vote on decisions through the chat!</b> [Click here for more info](https://store.steampowered.com/news/app/1792270/view/3132820191039890027?l=english).
+- <b>Ultrawide</b> monitor support
 
 {{< button href="https://store.steampowered.com/app/1792270/Sky_Caravan" target="_self" >}}
-BUY NOW!
+BUY NOW ON STEAM!
 {{< /button >}}
 
-<!-- {{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}} -->
+<br>
+<br>
+
+{{< button href="https://www.nintendo.com/pt-br/store/products/sky-caravan-switch/" target="_self" >}}
+BUY NOW ON NINTENDO SWITCH!
+{{< /button >}}
+
+
+
+{{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}

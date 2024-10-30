@@ -4,6 +4,33 @@
 }
 
 .logo {
-    max-height: 7rem;  /* Increase max height */
-    max-width: 7rem;   /* Increase max width */
+    max-height: 14rem;  /* Increase max height */
+    max-width: 14rem;   /* Increase max width */
 }
+
+.opacity-60 {
+    opacity:0.4
+  }
+
+  @media (min-width: 640px) {
+    .thumbnail {
+      min-width: 100%;
+      height: 275px;
+    }
+  
+    .article {
+      flex-wrap: wrap;
+    }
+  }
+  
+  @media (min-width: 2500px) {
+    .thumbnail {
+      min-width: 300px;
+      min-height: 250px;
+      height: auto;
+    }
+  
+    .article {
+      flex-wrap: nowrap;
+    }
+  }

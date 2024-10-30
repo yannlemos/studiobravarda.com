@@ -3,12 +3,15 @@ none = "none"
 
 [[main]]
 name = "Sky Caravan"
-# parent = "Portfolio"
 pageRef = "sky-caravan"
 weight = 1
 
 [[main]]
 name = "Extremely Powerful Capybaras"
-# parent = "Portfolio"
 pageRef = "extremely-powerful-capybaras"
 weight = 2
+
+[[main]]
+name = "About"
+pageRef = "about"
+weight = 3
