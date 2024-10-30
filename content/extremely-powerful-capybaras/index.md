@@ -32,3 +32,5 @@ BUY NOW!
 
 ------
 ##### For content creator inquiries regarding Extremely Powerful Capybaras, contact us at press@extremelypowerfulcapybaras.com
+
+[Presskit](https://studiobravarda.com/extremely-powerful-capybaras/presskit/)
