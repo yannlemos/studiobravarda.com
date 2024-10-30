@@ -1,8 +1,6 @@
 ---
 Title: "Presskit - Extremely Powerful Capybaras"
 ---
-![EPC Key Art](/banner.png)
-
 {{< lead >}}
 FACTSHEET
 {{< /lead >}}

@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>PC on STUDIO BRAVARDA</title>
-    <link>http://localhost:49171/tags/pc/</link>
+    <link>http://localhost:49401/tags/pc/</link>
     <description>Recent content in PC on STUDIO BRAVARDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 STUDIO BRAVARDA</copyright>
-    <atom:link href="http://localhost:49171/tags/pc/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:49401/tags/pc/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sky Caravan</title>
-      <link>http://localhost:49171/sky-caravan/</link>
+      <link>http://localhost:49401/sky-caravan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:49171/sky-caravan/</guid>
+      <guid>http://localhost:49401/sky-caravan/</guid>
       <description>Text-Based RPG</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:49171/sky-caravan/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:49401/sky-caravan/cover.png" />
     </item>
     
     <item>
       <title>Extremely Powerful Capybaras</title>
-      <link>http://localhost:49171/extremely-powerful-capybaras/</link>
+      <link>http://localhost:49401/extremely-powerful-capybaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:49171/extremely-powerful-capybaras/</guid>
+      <guid>http://localhost:49401/extremely-powerful-capybaras/</guid>
       <description>Online Multiplayer Roguelike</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:49171/extremely-powerful-capybaras/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:49401/extremely-powerful-capybaras/cover.png" />
     </item>
     
   </channel>

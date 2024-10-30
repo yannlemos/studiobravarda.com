@@ -2,38 +2,58 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Studio Bravarda on STUDIO BRAVARDA</title>
-    <link>http://localhost:49171/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content in Studio Bravarda on STUDIO BRAVARDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 STUDIO BRAVARDA</copyright>
-    <atom:link href="http://localhost:49171/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Sky Caravan</title>
-      <link>http://localhost:49171/sky-caravan/</link>
+      <link>http://localhost:1313/sky-caravan/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:49171/sky-caravan/</guid>
+      <guid>http://localhost:1313/sky-caravan/</guid>
       <description>Text-Based RPG</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:49171/sky-caravan/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/sky-caravan/cover.png" />
     </item>
     
     <item>
       <title>Extremely Powerful Capybaras</title>
-      <link>http://localhost:49171/extremely-powerful-capybaras/</link>
+      <link>http://localhost:1313/extremely-powerful-capybaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:49171/extremely-powerful-capybaras/</guid>
+      <guid>http://localhost:1313/extremely-powerful-capybaras/</guid>
       <description>Online Multiplayer Roguelike</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:49171/extremely-powerful-capybaras/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:1313/extremely-powerful-capybaras/cover.png" />
     </item>
     
     <item>
       <title>About</title>
-      <link>http://localhost:49171/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:49171/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Presskit - Extremely Powerful Capybaras</title>
+      <link>http://localhost:1313/extremely-powerful-capybaras/presskit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/extremely-powerful-capybaras/presskit/</guid>
+      <description></description>
+      
+    </item>
+    
+    <item>
+      <title>Presskit - Sky Caravan</title>
+      <link>http://localhost:1313/sky-caravan/presskit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/sky-caravan/presskit/</guid>
       <description></description>
       
     </item>

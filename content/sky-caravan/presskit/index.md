@@ -1,8 +1,6 @@
 ---
 Title: "Presskit - Sky Caravan"
 ---
-![SC Key Art](/banner.png)
-
 {{< lead >}}
 FACTSHEET
 {{< /lead >}}
