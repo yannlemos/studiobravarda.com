@@ -43,6 +43,6 @@ BUY NOW ON STEAM!
 BUY NOW ON NINTENDO SWITCH!
 {{< /button >}}
 
-
-
 {{< carousel images="gallery/*" aspectRatio="16-9" interval="2500" >}}
+
+[Presskit](https://studiobravarda.com/sky-caravan/presskit)

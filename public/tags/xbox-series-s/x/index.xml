@@ -2,20 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Xbox Series S/X on STUDIO BRAVARDA</title>
-    <link>http://localhost:63029/tags/xbox-series-s/x/</link>
+    <link>http://localhost:64607/tags/xbox-series-s/x/</link>
     <description>Recent content in Xbox Series S/X on STUDIO BRAVARDA</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
     <copyright>© 2024 STUDIO BRAVARDA</copyright>
-    <atom:link href="http://localhost:63029/tags/xbox-series-s/x/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:64607/tags/xbox-series-s/x/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Extremely Powerful Capybaras</title>
-      <link>http://localhost:63029/extremely-powerful-capybaras/</link>
+      <link>http://localhost:64607/extremely-powerful-capybaras/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:63029/extremely-powerful-capybaras/</guid>
+      <guid>http://localhost:64607/extremely-powerful-capybaras/</guid>
       <description>Online Multiplayer Roguelike</description>
-      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:63029/extremely-powerful-capybaras/cover.png" />
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:64607/extremely-powerful-capybaras/cover.png" />
     </item>
     
   </channel>

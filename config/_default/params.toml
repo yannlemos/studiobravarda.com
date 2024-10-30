@@ -62,6 +62,8 @@ showAuthorsBadges = false
 showWordCount = false
 showZenMode = false
 heroStyle = "thumbAndBackground"
+showRelatedContent = false
+relatedContentLimit = "0"
 
 [list]
 showHero = false
