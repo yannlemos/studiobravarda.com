@@ -1,17 +1,4 @@
 [[main]]
 none = "none"
 
-[[main]]
-name = "Sky Caravan"
-pageRef = "sky-caravan"
-weight = 1
 
-[[main]]
-name = "Extremely Powerful Capybaras"
-pageRef = "extremely-powerful-capybaras"
-weight = 2
-
-[[main]]
-name = "About"
-pageRef = "about"
-weight = 3

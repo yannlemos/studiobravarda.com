@@ -1,5 +1,6 @@
 ---
 title: "About"
+draft: true
 ---
 Studio Bravarda is an award-winning game development company.
 

@@ -4,6 +4,7 @@ type: "Game"
 tags: ["PC", "Nintendo Switch"]
 summary: "Text-Based RPG"
 weight: 1
+draft: true
 ---
 
 ![sky Caravan Key Art](banner.png)

@@ -4,6 +4,7 @@ type: "Game"
 tags: ["PC", "Nintendo Switch", "PS5", "Xbox Series S/X"]
 summary: "Online Multiplayer Roguelike"
 weight: 2
+draft: true
 ---
 ![Extremely Powerful Capybaras Key Art](banner.png)
 
