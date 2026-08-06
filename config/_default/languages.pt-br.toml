@@ -1,15 +1,15 @@
-locale = "en"
-label = "English"
+locale = "pt-br"
+label = "Português"
 weight = 1
 title = "Studio Bravarda"
 
 [params]
-  displayName = "English"
-  isoCode = "en"
+  displayName = "Português"
+  isoCode = "pt-br"
   rtl = false
   dateFormat = "2 January 2006"
   logo = "/img/logo.png"
 
 [params.author]
-  name = "Thank you for everything!"
+  name = "Obrigado por tudo!"
   headline = "2020 - 2026"

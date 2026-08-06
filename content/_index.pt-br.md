@@ -17,11 +17,11 @@ title: "Studio Bravarda"
   <img src="/img/laurels.png" alt="Developers of Sky Caravan and Extremely Powerful Capybaras." width="800" height="300">
 
 
-  ## OUR GAMES
+  ## NOSSOS JOGOS
 
   <div class="game-store-section not-prose">
     <img src="/img/sc_banner.png" alt="Sky Caravan banner" class="game-banner">
-    <p class="available-on">Available on:</p>
+    <p class="available-on">Disponível em:</p>
     <div class="storefront-icons">
       <a href="https://store.steampowered.com/app/1792270/Sky_Caravan/" target="_blank" rel="noopener" aria-label="Sky Caravan on Steam">
         <img src="/img/steam_logo.svg" alt="Steam">
@@ -34,7 +34,7 @@ title: "Studio Bravarda"
 
   <div class="game-store-section not-prose">
     <img src="/img/epc_banner.png" alt="Extremely Powerful Capybaras banner" class="game-banner">
-    <p class="available-on">Available on:</p>
+    <p class="available-on">Disponível em:</p>
     <div class="storefront-icons">
       <a href="https://store.steampowered.com/app/2089980/Extremely_Powerful_Capybaras/" target="_blank" rel="noopener" aria-label="Extremely Powerful Capybaras on Steam">
         <img src="/img/steam_logo.svg" alt="Steam">
@@ -51,4 +51,4 @@ title: "Studio Bravarda"
     </div>
   </div>
 
-  If you need to get in touch, send an email to: contact@studiobravarda.com
+  Caso precise entrar em contato, mande um email para: contact@studiobravarda.com
