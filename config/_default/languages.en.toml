@@ -2,7 +2,7 @@ disabled = false
 languageCode = "en"
 languageName = "English"
 weight = 1
-title = "Thank you for everything!"
+title = "Studio Bravarda"
 
 [params]
 displayName = "EN"
@@ -10,4 +10,4 @@ isoCode = "en"
 rtl = false
 dateFormat = "2 January 2006"
 author = { name = "THANK YOU FOR EVERYTHING!" }
-logo = "Logo Bravarda.png"
+logo = "logo.png"

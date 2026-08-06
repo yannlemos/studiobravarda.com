@@ -1,8 +1,8 @@
 .main-menu {
-  margin-top: 10px;
-  margin-bottom: 10px;
+  margin-top: 50px;
+  margin-bottom: 50px;
   position: relative;
-  min-height: 15rem;           /* reserve space so content below doesn't ride up under the logo */
+  min-height: 15rem;
 }
 
 .main-menu > div:first-child a {
@@ -18,19 +18,19 @@
 
   width: auto;
   height: auto;
-  max-height: 30rem;
-  max-width: 30rem;
+  max-height: 40rem;
+  max-width: 40rem;
   object-fit: contain;
 }
 
 @media (max-width: 768px) {
   .main-menu {
-    min-height: 5rem;
+    min-height: 9rem;     
   }
 
   .logo {
-    max-height: 4rem;
-    max-width: 4rem;
+    max-height: 20rem;
+    max-width: 20rem;
   }
 }
 
@@ -70,6 +70,8 @@
   display: block;
   margin: 0 auto 1rem;
   border-radius: 0.5rem;
+  width: max-content;
+  height: max-content;
 }
 
 .available-on {
@@ -92,9 +94,21 @@
   /* filter: grayscale(100%); */
   opacity: 0.6;
   transition: opacity 0.2s ease;
+  cursor: pointer;
 }
 
 .storefront-icons a:hover img,
 .storefront-icons a:focus-visible img {
   opacity: 1;
+}
+
+.prose {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+@media (min-width: 1024px) {
+  .prose {
+    max-width: 85ch;
+  }
 }
