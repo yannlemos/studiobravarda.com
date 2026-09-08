@@ -1,17 +1,36 @@
 ---
 title: "Studio Bravarda"
 ---
+A jornada do Studio Bravarda chegou ao fim.
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus odio sit amet risus consectetur, porta laoreet velit pulvinar. Sed vel interdum metus. Vivamus luctus aliquet justo, vitae venenatis nisl hendrerit et. Curabitur quis feugiat nunc. Ut et magna imperdiet, eleifend lorem sagittis, scelerisque orci. Integer in sapien tristique, tincidunt ex ut, sodales nulla. Integer at interdum ipsum. Duis sapien nibh, luctus sed magna quis, blandit tincidunt elit. Sed massa elit, gravida eu egestas at, scelerisque varius arcu. Nullam suscipit urna orci, sit amet pharetra justo feugiat id. Integer aliquam, erat eu gravida tincidunt, lorem lorem interdum dolor, vel pretium sem mi sit amet nulla.
+Chegamos num ponto onde decidimos que não é mais viável continuar nossas atividades, e queremos ser transparentes com os motivos que nos levaram a essa decisão.
 
-  Sed vel ultrices enim. Praesent vel consectetur dui. Nullam eros felis, facilisis at finibus maximus, pretium vitae tellus. Curabitur mollis erat ut mauris pretium, eu tincidunt libero mollis. Fusce vel nunc fringilla, vehicula turpis vel, interdum tortor. Vestibulum convallis odio ac augue hendrerit, a ultricies nisl venenatis. Morbi ornare ipsum a rhoncus finibus. Nullam sagittis vitae velit a egestas. Aliquam gravida nisi in nisl bibendum eleifend sed semper odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent sit amet posuere lectus. Morbi pulvinar tortor a luctus efficitur.
+Há um ditado comum na indústria de jogos que vai mais ou menos assim: "Todo jogo lançado é um milagre".<br>
+Talvez sobreviver a um lançamento complicado seja um milagre maior ainda.
 
-  Duis eu turpis eget mi commodo laoreet. Curabitur eu ornare velit. Vestibulum venenatis neque a risus luctus, vitae dictum sapien dapibus. Nam urna lorem, pulvinar at dolor non, rutrum vehicula lorem. Nam lectus massa, sodales non bibendum sed, luctus vitae nulla. Duis iaculis quam a turpis pellentesque egestas. Proin dui diam, malesuada nec urna vel, aliquam ultricies quam. Sed at finibus magna, ac posuere ipsum. Proin eget lacinia nisl. Nunc finibus faucibus elit, ut molestie nisl ultricies imperdiet. Nam vulputate elit neque, a auctor sapien malesuada vel.
+Vínhamos tentando nos recuperar do lançamento do Extremely Powerful Capybaras já faz três anos, e isso gerou uma bola de neve insustentável para nosso estúdio. Não conseguimos garantir uma jogabilidade online estável o bastante para todos os jogadores no dia do lançamento, especialmente na China. Isso significa que ficamos com reviews "Mixed" na Steam. O jogo não bateu o "recoup", ou seja, não recuperou os custos de desenvolvimento, o que significa que não pudemos continuar investindo nele para reverter a situação.
 
-  Nulla ut neque ut quam pulvinar sagittis a at purus. Duis varius ipsum et viverra vestibulum. Curabitur pretium justo a quam sollicitudin gravida. Sed eget eleifend sem. Vestibulum varius arcu dui, eu tristique massa pellentesque nec. Nullam risus sem, sagittis et fringilla ac, egestas nec velit. Curabitur consectetur nulla at sapien iaculis aliquam. 
+Para virar o jogo numa situação dessas, no estilo "No Man's Sky", é necessário dinheiro, e os esforços para portar o jogo para várias plataformas tomaram muito tempo devido aos desafios técnicos do projeto. Não estamos culpando ninguém; somos responsáveis pelo estado do jogo no lançamento. Queríamos ter feito melhor. É só a realidade. Fazer jogos de maneira independente significa que a chance de sobreviver a uma situação dessas é muito, muito pequena.
+
+Tentamos começar outros projetos e mudamos de engine de Unity para Godot. Essa decisão é uma que ainda estamos muito felizes por ter feito; trabalhar com o Godot foi um prazer e recomendamos para outros estúdios independentes. Oportunidades de investimento para indies, no entanto, tornaram-se extremamente difíceis de conseguir. Nossa indústria está um caos já faz um tempo. Não conseguimos novos investimentos.
+
+Nesse meio-tempo, trabalhos para terceiros se tornaram um bote salva-vidas. Ainda assim, chega um ponto em que você percebe que só está continuando por continuar. Enquanto isso, o tempo passa, sacrifícios pessoais se se acumulam, e problemas financeiros se multiplicam.
+
+Estamos muito cansados. Juntos, percebemos que é a hora de aceitar a jornada pelo que ela foi, não pelo que gostaríamos que ela fosse. Nesses seis anos, seis amigos realizaram seus sonhos de infância juntos, encontraram parceiros incríveis ao redor do mundo e lançaram dois jogos em mútiplas plataformas que foram jogados por centenas de milhares de pessoas.
+
+Seremos gratos pelo resto das nossas vidas por todos que nos ajudaram a tornar isso realidade.
+
+Muito obrigado.
+
+Para outros indies que encontrarem essa mensagem: continuem fazendo jogos. 
+
+Tudo valeu a pena.
+
+Nossos jogos continuarão disponíveis em todas as plataformas. Esperamos que eles continuem criando momentos infinitos para quem os encontrarem.
 
   {{< lead >}}
-  Lorem ipsum dolot sit amet.
+Abraços, <br>
+Cezar, João, Mabel, Mateus, Nick and Yann
   {{< /lead >}}
 
   <img src="/img/laurels.png" alt="Developers of Sky Caravan and Extremely Powerful Capybaras." width="800" height="300">

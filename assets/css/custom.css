@@ -1,3 +1,10 @@
+/* Increase the default font size */
+html {
+  font-weight:400;
+  font-size: 13pt;
+  color: white;
+}
+
 .main-menu {
   margin-top: 50px;
   margin-bottom: 50px;

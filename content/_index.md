@@ -2,16 +2,35 @@
 title: "Studio Bravarda"
 ---
 
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam rhoncus odio sit amet risus consectetur, porta laoreet velit pulvinar. Sed vel interdum metus. Vivamus luctus aliquet justo, vitae venenatis nisl hendrerit et. Curabitur quis feugiat nunc. Ut et magna imperdiet, eleifend lorem sagittis, scelerisque orci. Integer in sapien tristique, tincidunt ex ut, sodales nulla. Integer at interdum ipsum. Duis sapien nibh, luctus sed magna quis, blandit tincidunt elit. Sed massa elit, gravida eu egestas at, scelerisque varius arcu. Nullam suscipit urna orci, sit amet pharetra justo feugiat id. Integer aliquam, erat eu gravida tincidunt, lorem lorem interdum dolor, vel pretium sem mi sit amet nulla.
+Studio Bravarda's journey has come to an end.
 
-  Sed vel ultrices enim. Praesent vel consectetur dui. Nullam eros felis, facilisis at finibus maximus, pretium vitae tellus. Curabitur mollis erat ut mauris pretium, eu tincidunt libero mollis. Fusce vel nunc fringilla, vehicula turpis vel, interdum tortor. Vestibulum convallis odio ac augue hendrerit, a ultricies nisl venenatis. Morbi ornare ipsum a rhoncus finibus. Nullam sagittis vitae velit a egestas. Aliquam gravida nisi in nisl bibendum eleifend sed semper odio. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Praesent sit amet posuere lectus. Morbi pulvinar tortor a luctus efficitur.
+We have reached a point where we cannot continue operating in the long term, and we'd like to share our reasoning for making this decision.
 
-  Duis eu turpis eget mi commodo laoreet. Curabitur eu ornare velit. Vestibulum venenatis neque a risus luctus, vitae dictum sapien dapibus. Nam urna lorem, pulvinar at dolor non, rutrum vehicula lorem. Nam lectus massa, sodales non bibendum sed, luctus vitae nulla. Duis iaculis quam a turpis pellentesque egestas. Proin dui diam, malesuada nec urna vel, aliquam ultricies quam. Sed at finibus magna, ac posuere ipsum. Proin eget lacinia nisl. Nunc finibus faucibus elit, ut molestie nisl ultricies imperdiet. Nam vulputate elit neque, a auctor sapien malesuada vel.
+There's a common saying in the games industry: "Releasing a game is a miracle". <br>
+Surviving a rough launch might be an even bigger one.
 
-  Nulla ut neque ut quam pulvinar sagittis a at purus. Duis varius ipsum et viverra vestibulum. Curabitur pretium justo a quam sollicitudin gravida. Sed eget eleifend sem. Vestibulum varius arcu dui, eu tristique massa pellentesque nec. Nullam risus sem, sagittis et fringilla ac, egestas nec velit. Curabitur consectetur nulla at sapien iaculis aliquam. 
+We have been trying to recover from Extremely Powerful Capybaras's release for almost three years now, and it has snowballed into an unsustainable situation for our studio. We weren't able to support online gameplay with the stability that we needed in all regions on launch-day, especially China. This resulted in a Mixed review rating on Steam. The game did not recoup development costs, so we weren't able to continue improving it to try to turn the situation around.
+
+To pull-of a "No Man's Sky" you need funding, and the porting efforts took a long time due to the game's technical challenges. We're not blaming anyone; we're responsible for the game's state on release. We wish we'd done better. It's just the reality. Indie development is a market with a very small chance of survival if something like this happens.
+
+We tried moving forward to other projects and changed engines from Unity to Godot. This is a decision that we are still incredibly happy for; working on it was a blast and we recommend it to other indie studios in the long run. Funding opportunities for indies, however, have become incredibly hard to get. Our industry has been a mess for some time. Our new games made in Godot weren't able to secure funding.
+
+In the meantime, work-for-hire projects became our lifeline. Still, at a certain point, you realize that you are just moving forward for the sake of moving forward. All the while, time goes by, personal sacrifices pile up, and money problems accumulate.
+
+We are very tired. Together, we realized that it is time to accept the journey for what it is, not for what we'd like it to be. Throughout six years, six friends fulfilled their childhood dream together, partnered with amazing people around the world and released two games in multiple platformas that have been played by hundreds of thousands of people.
+
+We will be thankful for the rest of our lives to everyone that helped make this a reality.  
+Muito obrigado.
+
+To other indies that find this message: keep making games.
+
+It was all worth it.
+
+Our games will continue to be available in all platforms. We hope they continue to bring infinite moments to those who find them.
 
   {{< lead >}}
-  Lorem ipsum dolot sit amet.
+  Abraços,  <br>
+  Cezar, João, Mabel, Mateus, Nick and Yann
   {{< /lead >}}
 
   <img src="/img/laurels.png" alt="Developers of Sky Caravan and Extremely Powerful Capybaras." width="800" height="300">
