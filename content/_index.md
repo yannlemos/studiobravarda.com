@@ -1,7 +1,7 @@
 ---
 title: "Studio Bravarda"
 ---
-
+ 
 Studio Bravarda's journey has come to an end.
 
 We have reached a point where we cannot continue operating in the long term, and we'd like to share our reasoning for making this decision.
@@ -17,7 +17,7 @@ We tried moving forward to other projects and changed engines from Unity to Godo
 
 In the meantime, work-for-hire projects became our lifeline. Still, at a certain point, you realize that you are just moving forward for the sake of moving forward. All the while, time goes by, personal sacrifices pile up, and money problems accumulate.
 
-We are very tired. Together, we realized that it is time to accept the journey for what it is, not for what we'd like it to be. Throughout six years, six friends fulfilled their childhood dream together, partnered with amazing people around the world and released two games in multiple platformas that have been played by hundreds of thousands of people.
+We are very tired. Together, we realized that it is time to accept the journey for what it is, not for what we'd like it to be. Throughout six years, six friends fulfilled their childhood dream together, partnered with amazing people around the world and released two games in multiple platforms that have been played by hundreds of thousands of people.
 
 We will be thankful for the rest of our lives to everyone that helped make this a reality.  
 Muito obrigado.
