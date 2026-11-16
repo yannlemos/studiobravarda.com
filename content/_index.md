@@ -11,7 +11,7 @@ Surviving a rough launch might be an even bigger one.
 
 We have been trying to recover from Extremely Powerful Capybaras's release for almost three years now, and it has snowballed into an unsustainable situation for our studio. We weren't able to support online gameplay with the stability that we needed in all regions on launch-day, especially China. This resulted in a Mixed review rating on Steam. The game did not recoup development costs, so we weren't able to continue improving it to try to turn the situation around.
 
-To pull-of a "No Man's Sky" you need funding, and the porting efforts took a long time due to the game's technical challenges. We're not blaming anyone; we're responsible for the game's state on release. We wish we'd done better. It's just the reality. Indie development is a market with a very small chance of survival if something like this happens.
+To pull off a "No Man's Sky" you need funding, and the porting efforts took a long time due to the game's technical challenges. We're not blaming anyone; we're responsible for the game's state on release. We wish we'd done better. It's just the reality. Indie development is a market with a very small chance of survival if something like this happens.
 
 We tried moving forward to other projects and changed engines from Unity to Godot. This is a decision that we are still incredibly happy for; working on it was a blast and we recommend it to other indie studios in the long run. Funding opportunities for indies, however, have become incredibly hard to get. Our industry has been a mess for some time. Our new games made in Godot weren't able to secure funding.
 
