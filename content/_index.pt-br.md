@@ -70,4 +70,4 @@ Cezar, João, Mabel, Mateus, Nick and Yann
     </div>
   </div>
 
-  Caso precise entrar em contato, mande um email para: contact@studiobravarda.com
+  Caso precise entrar em contato, mande um email para: studiobravarda@proton.me

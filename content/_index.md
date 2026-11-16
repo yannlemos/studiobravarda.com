@@ -70,4 +70,4 @@ Our games will continue to be available in all platforms. We hope they continue 
     </div>
   </div>
 
-  If you need to get in touch, send an email to: contact@studiobravarda.com
+  If you need to get in touch, send an email to: studiobravarda@proton.me
